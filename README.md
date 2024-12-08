@@ -1,3 +1,2 @@
 # shivalal-git
-price
-mahadev
+website
